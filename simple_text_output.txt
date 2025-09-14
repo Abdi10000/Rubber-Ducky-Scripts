@@ -1,0 +1,2 @@
+REM Simple payload which starts Notepad and provides the following text: You have been compromised!
+REM This script is simply a harmless payload for testing your Rubber Ducky USB and also to test, how your device reacts to it.
