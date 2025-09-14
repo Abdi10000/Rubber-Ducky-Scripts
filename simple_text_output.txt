@@ -1,5 +1,5 @@
 REM Simple payload which starts Notepad and provides the following text: Your laptop has been compromised!
-REM This script is simply a harmless payload for testing your Rubber Ducky USB and also to test, how your device reacts to it.
+REM This script is simply a harmless payload for testing your Rubber Ducky USB and also to test, how it reacts to your device.
 
 DELAY 500
 
