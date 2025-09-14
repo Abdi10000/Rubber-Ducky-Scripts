@@ -1,2 +1,2 @@
 # Rubber-Ducky-Scripts
-Repository for storing DuckyScripts which are used for testing hardware against malicious USB drives for both USB-A and USB-C. 
+Repository for storing DuckyScripts which are used for testing hardware against malicious USB drives for both USB-A and USB-C. The payloads are being made as .txt files in my repository and they should afterwards be encoded by the users who extracts them from the repository. Use the payloadstudio site to encode them and then transfer it to the Rubber Ducky - https://payloadstudio.com/
