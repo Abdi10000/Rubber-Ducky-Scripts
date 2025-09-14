@@ -1,2 +1,21 @@
 REM Simple payload which starts Notepad and provides the following text: You have been compromised!
 REM This script is simply a harmless payload for testing your Rubber Ducky USB and also to test, how your device reacts to it.
+
+DELAY 500
+
+REM Open Notepad via Win+R
+GUI r
+DELAY 300
+
+REM Clear any pre-existing text in the Run dialog
+CTRL a
+DEL
+DELAY 100
+
+STRING notepad
+ENTER
+DELAY 600
+
+REM Type your alert message in Notepad
+STRING Your laptop has been compromised!
+ENTER
