@@ -1,0 +1,1 @@
+REM Stealthy payload for testing the security defenses and alerts against an organization.
